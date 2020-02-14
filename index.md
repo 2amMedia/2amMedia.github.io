@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
-
+theme:jekyll-theme-cayman
+title:Thomas G github page
+description:This is for an assignment
 
 
 This is a test page for Thomas Gill
